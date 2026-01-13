@@ -1,0 +1,3 @@
+[submodule "vidar-robotwin"]
+	path = vidar-robotwin
+	url = git@github.com:Areache/vidar-robotwin.git
