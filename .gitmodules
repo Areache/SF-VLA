@@ -1,3 +1,6 @@
 [submodule "vidar-robotwin"]
 	path = vidar-robotwin
 	url = git@github.com:Areache/vidar-robotwin.git
+[submodule "vidar"]
+	path = vidar
+	url = git@github.com:Areache/vidar.git
